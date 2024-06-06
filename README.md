@@ -24,8 +24,8 @@ I am always excited to learn new technologies and harvest my learning in develop
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,heroku,aws,dynamodb" />
   </p>
 
-## Certifications
+<h2 align="center"> Certifications </h2>
 <p align="center">
-  <img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width=150 height=150/>
+  <img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width=140 height=140/>
   <img src="https://images.credly.com/size/340x340/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" width=150 height=150/>
 </p>
