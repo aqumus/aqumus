@@ -29,3 +29,10 @@ I am always excited to learn new technologies and harvest my learning in develop
   <img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width=140 height=140/>
   <img src="https://images.credly.com/size/340x340/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" width=150 height=150/>
 </p>
+<hr/>
+<p align="center">
+<img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqumus&layout=compact&theme=dark" />&nbsp;&nbsp;
+</p>
+
+<h2 align="center"> Daily.dev stats </h2>
+<p align="center"><a href="https://app.daily.dev/aqumus"><img src="https://api.daily.dev/devcards/v2/VxSV4RKyoN7OidbfzTVVi.png?r=jk4&type=wide" width="652" alt="Aquib Vadsaria's Dev Card"/></a></p>
