@@ -5,7 +5,7 @@
 -->
 <img src="About.svg"/>
 
-With over 12 years of experience, I have worked across developing production-ready servers, UI Web & mobile applications to configuring mainframe servers in startup and enterprise organizations.
+With over 13+ years of experience, I have worked across developing production-ready servers, UI Web & mobile applications to configuring mainframe servers in startup and enterprise organizations.
 I am always excited to learn new technologies and harvest my learning in developing exciting and challenging applications.
 
 <h2 align="center"> Technologies I work with </h2>
@@ -27,7 +27,8 @@ I am always excited to learn new technologies and harvest my learning in develop
 <h2 align="center"> Certifications </h2>
 <p align="center">
   <img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width=140 height=140/>
-  <img src="https://images.credly.com/size/340x340/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" width=150 height=150/>
+  <img src="https://images.credly.com/size/340x340/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" width=140 height=140/>
+  <img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width=140 height=140/>
 </p>
 <hr/>
 <p align="center">
